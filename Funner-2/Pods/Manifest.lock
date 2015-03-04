@@ -1,0 +1,17 @@
+PODS:
+  - AVOSCloud (2.6.10)
+  - AVOSCloudSNS (2.6.10):
+    - AVOSCloud
+  - GPUImage (0.1.6)
+
+DEPENDENCIES:
+  - AVOSCloud
+  - AVOSCloudSNS
+  - GPUImage (~> 0.1.4)
+
+SPEC CHECKSUMS:
+  AVOSCloud: f6bda519d035a21ceacab049184aa5cdb9e1177f
+  AVOSCloudSNS: 9cc4d5b13a9b94614d90efa7daa3eb55eda367a8
+  GPUImage: cecb0830bb9428f50192042e3c7b53810f51388e
+
+COCOAPODS: 0.35.0
